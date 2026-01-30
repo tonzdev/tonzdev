@@ -51,9 +51,10 @@ td {
   width: 100%;
   min-height: 100svh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .nav {
@@ -88,11 +89,13 @@ td {
 /* About Styles */
 .about {
   min-height: 100svh;
+  min-width: 100%;
   font-size: 1.5em;
 }
 
 .info {
-  min-height: 67svh;
+  min-height: 60svh;
+  max-width: 600px;
 }
 
 /* Blog Styles */
