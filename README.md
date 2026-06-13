@@ -1,5 +1,5 @@
-# 🌱 [tonz.dev](https://tonz.dev)
-### Full-Stack-Dev-Sec-Sys-Ops Engineering Manager
+## 🌱 [tonz.dev](https://tonz.dev) ~ Tony Zhang
+### Full-Stack-Dev-Sec-Sys-Ops Engineering Manager @ Versent
 
 📍 [Virgo](https://virgo.tonz.io) - Fast and Private Geolocation Library
 
