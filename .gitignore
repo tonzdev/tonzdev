@@ -1,1 +1,8 @@
-.DS_Store
+# Ignore everything
+*
+
+# Allow these
+!site/
+!site/**
+!README.md
+!.gitignore
